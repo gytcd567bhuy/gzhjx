@@ -1,0 +1,7 @@
+vless://ed896094-b11a-4be3-9374-145994b217bd@141.101.123.21:443?type=ws&security=tls&path=%2Fvlcore22&host&sni=be94c1bd.gdrh.pages.dev&alpn=#JX-1
+vless://ed896094-b11a-4be3-9374-145994b217bd@141.101.123.21:443?type=ws&security=tls&path=%2Fvlcore22&host&sni=e494fbfe.rrhd.pages.dev&alpn=#JX-2
+vless://ed896094-b11a-4be3-9374-145994b217bd@141.101.123.21:443?type=ws&security=tls&path=%2Fvlcore22&host&sni=c0c2b22b.vrtd.pages.dev&alpn=#JX-3
+vless://ed896094-b11a-4be3-9374-145994b217bd@141.101.123.21:443?type=ws&security=tls&path=%2Fvlcore22&host&sni=8e952f7a.etyuy.pages.dev&alpn=#JX-4
+vless://42d7b5b6-fb46-4cdf-833a-4f24d3ed81b4@141.101.123.21:443?type=ws&security=tls&path=%2F42d7b5b6-fb46-4cdf-833a-4f24d3ed81b4-vless&host&sni=e45061e7.veryn.pages.dev&alpn=#JX-5
+vless://f751184b-a3e2-45c5-828d-ca04d536d831@141.101.123.21:443?type=ws&security=tls&path=%2Ff751184b-a3e2-45c5-828d-ca04d536d831-vless&host&sni=da4f63c9.fytuv.pages.dev&alpn=#JX-6
+vless://04a4e985-edd3-4b73-85ea-dfb6aed0654e@141.101.123.21:443?type=ws&security=tls&path=%2F04a4e985-edd3-4b73-85ea-dfb6aed0654e-vless&host&sni=f995edb8.pijt.pages.dev&alpn=#JX-7﻿
